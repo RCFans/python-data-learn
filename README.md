@@ -7,8 +7,9 @@
 
 **Scikit-learn**
 
-* [Lesson 1](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Machine%20Learning%20-%201.ipynb)
-* [Lesson 2](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Machine%20Learning%20-%202.ipynb)
+* [Lesson 1 - DataSet](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Machine%20Learning%20-%201.ipynb)
+* [Lesson 2 - Linear Regression](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Machine%20Learning%20-%202.ipynb)
+* [Lesson 3 - Classification](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Machine%20Learning%20-%203.ipynb)
 
 **Pandas**
 
