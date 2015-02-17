@@ -17,6 +17,7 @@
 * [USA.GOV](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Python%20for%20Data%20Analytics%20-%2001%20USA.GOV.ipynb)
 * [MovieLens](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Python%20for%20Data%20Analytics%20-%2002%20MovieLens.ipynb)
 * [US Baby Names](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Python%20for%20Data%20Analytics%20-%2003%20US%20Baby%20Names.ipynb)
+* [Read Large File](http://nbviewer.ipython.org/urls/github.com/RCFans/python-data-learn/raw/master/Read%20Large%20File.ipynb)
 
 **SciPy**
 
